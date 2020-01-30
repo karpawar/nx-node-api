@@ -1,5 +1,7 @@
 var SequelizeAuto = require('sequelize-auto')
 
+// node seq-auto.js will generate all the models for given table 
+
 
 // var auto = new SequelizeAuto('classicmodels', 'root', 'root',{
 //   host: 'localhost',
