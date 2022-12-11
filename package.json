@@ -27,7 +27,7 @@
   },
   "private": true,
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.3"
   },
   "devDependencies": {
     "@nrwl/eslint-plugin-nx": "8.12.0",
